@@ -1,0 +1,12 @@
+[
+  {
+    "type": "Valid",
+    "username": "deepakt",
+    "password": "Mytest@123"
+  },
+  {
+    "type": "Invalid",
+    "username": "invalidusername",
+    "password": "invalidpassword"
+  }
+]
